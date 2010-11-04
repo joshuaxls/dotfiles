@@ -1,0 +1,20 @@
+[user]
+	name = Joshua Slayton
+	email = joshuaxls@gmail.com
+
+[alias]
+	di = diff
+	st = status
+	ci = commit
+	co = checkout
+	br = branch
+	oneline = log --pretty=oneline
+	sm = submodule
+	cp = cherry-pick
+	pr = pull --rebase
+	ss = stash
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+[core]
